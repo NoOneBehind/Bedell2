@@ -78,3 +78,25 @@ header div{
   font-family: 'Song Myung', serif;
   font-weight: 200;
 }
+.containar2{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+.notice, .schedule{
+  text-align: left;
+  display: block;
+  width: auto;
+  margin : 0 5% 20px 60%;
+  background-color: rgba(255,255,255,0.7);
+  border-radius: 15px;
+}
+.notice h2, .schedule h2{
+  margin: 0;
+  padding: 10px 0 10px 30px;
+  border-bottom: solid 1px;
+}
+.notice p, .schedule p{
+  margin: 0;
+  padding : 3px 0px 3px 30px;
+}
