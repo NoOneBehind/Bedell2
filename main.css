@@ -13,6 +13,7 @@ header{
   background-color: white;
   width: 200px;
   height: 100%;
+  text-align: center;
 }
 header h1{
   padding: 0;
@@ -58,7 +59,7 @@ header h1 img{
   border-left: 5px solid rgba(85,26,139,0.7);
 }
 header div{
-  margin: 30px 41.75px 0 41.75px;
+  margin: 30px 0 0 0;
   display: inline-block;
   text-align: center;
   padding: 10px 0;
